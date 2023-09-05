@@ -7,7 +7,7 @@
 
 - 💬 Ask me about Salesforce, Laravel, QA, and Software Engineering.
 
-- 💼 If you have questions, or you have a project I'm available for freelancing,you can always contact me at: <br>
+- 💼 If you have questions, You can always contact me at: <br>
    Email: cbahaaeddine@outlook.fr | <a href="https://www.linkedin.com/in/bahaa-eddine-chennouf" target="_blank">LinkedIn</a>
    
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg"></code>
