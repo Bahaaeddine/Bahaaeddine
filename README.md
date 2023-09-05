@@ -3,13 +3,13 @@
 <a href="https://github.com//"><img width="35%" align="right" alt="Github" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" /></a>
 
 
-- 💻 I’m currently working on Enterprise Level Softwares
+- 💻 I’m currently working on Salesforce platform
 
-- 💬 Ask me about Laravel, VueJS, and Software Engineering.
+- 💬 Ask me about Salesforce, Laravel, QA, and Software Engineering.
 
 - 💼 If you have questions, or you have a project I'm available for freelancing,you can always contact me at: <br>
-   Email: cbahaaeddine@outlook.fr | <a href="https://www.linkedin.com/in/bahaa-eddine-1a92b0197/">LinkedIn</a>
-   
+   Email: cbahaaeddine@outlook.fr | <a href="https://www.linkedin.com/in/bahaa-eddine-chennouf" target="_blank">LinkedIn</a>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
