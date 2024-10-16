@@ -4,7 +4,9 @@
 
 
 - 💻 I’m currently working on Salesforce platform
-
+  
+- I use Apex, Visualforce, LWC, SOQL, and SF admin skills
+  
 - 💬 Ask me about Salesforce, Laravel, QA, and Software Engineering.
 
 - 💼 If you have questions, You can always contact me at: <br>
